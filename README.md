@@ -16,7 +16,8 @@
 - [ ] Прикрепите в файл README.md скриншот страницы шаблона с названием «Задание 1»
 
 ### Ответ:
-
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-03/blob/main/hw-03_1.1.png)
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-03/blob/main/hw-03_1.2.png)
 
  ---
 
@@ -34,9 +35,6 @@
 #### Требования к результату
 - [ ] Результат данного задания сдавайте вместе с заданием 3
 
-### Ответ:
-
-
  ---
 
 ### Задание 3
@@ -52,7 +50,10 @@
 - [ ] Прикрепите в файл README.md скриншот страницы хостов, где будут видны привязки шаблонов с названиями «Задание 2-3». Хосты должны иметь зелёный статус подключения
 
 ### Ответ:
-
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-03/blob/main/hw-03_2-3.1.png)
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-03/blob/main/hw-03_2-3.2.png)
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-03/blob/main/hw-03_2-3.3.png)
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-03/blob/main/hw-03_2-3.4.png)
 
  ---
 
@@ -68,7 +69,7 @@
 - [ ] Прикрепите в файл README.md скриншот дашборда с названием «Задание 4»
 
 ### Ответ:
-
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-03/blob/main/hw-03_4.1.png)
 
  ---
 
@@ -84,7 +85,7 @@
 - [ ] Прикрепите в файл README.md скриншот карты, где видно, что триггер сработал, с названием «Задание 5» 
 
 ### Ответ:
-
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-03/blob/main/hw-03_5.1.png)
 
  ---
 
@@ -109,7 +110,7 @@ if [ "$1" == "2" ]; then
 fi
 
 ```
-
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-03/blob/main/hw-03_6.1.png)
 
  ---
 
@@ -121,7 +122,8 @@ fi
 - [ ] Прикрепите в файл README.md скриншот правила обнаружения, а также скриншот страницы Discover, где видны оба хоста.*
 
 ### Ответ:
-
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-03/blob/main/hw-03_8.1.png)
+![alt text](https://github.com/Roman-Teterevlev/SYS-21_hw-03/blob/main/hw-03_8.2.png)
 
  ---
 
